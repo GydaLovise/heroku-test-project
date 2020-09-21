@@ -23,7 +23,7 @@ public class DemoController {
 
     @GetMapping(path = "/hello")
     public String hello() {
-        return "hello and good morning";
+        return "hello and sunny good morning";
     }
 
 }
